@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Options from "./components/Options";
+import Options from "./components/Options.jsx";
 import Statistic from "./components/Statistics.jsx";
 
 const App = () => {
@@ -37,3 +37,4 @@ const App = () => {
 };
 
 export default App;
+ 
