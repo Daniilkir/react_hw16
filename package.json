@@ -2,6 +2,7 @@
   "name": "hw_16",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://daniilkir.github.io/react_hw16/",
   "dependencies": {
     "cra-template": "1.2.0",
     "gh-pages": "^6.2.0",
